@@ -1,5 +1,4 @@
 require 'bootstrap-sass'
-require 'font-awesome-sass'
 require 'jquery-rails'
 
 module ResqueWeb
